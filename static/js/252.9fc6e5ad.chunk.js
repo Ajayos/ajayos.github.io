@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkajayos_github_io=self.webpackChunkajayos_github_io||[]).push([[252],{3252:(a,s,e)=>{e.r(s),e.d(s,{default:()=>i});e(9950);var h=e(4414);const i=()=>(0,h.jsx)("div",{children:"dashboard"})}}]);

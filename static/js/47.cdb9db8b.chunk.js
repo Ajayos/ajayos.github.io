@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkajayos_github_io=self.webpackChunkajayos_github_io||[]).push([[47],{9047:(a,e,s)=>{a.exports=s.p+"static/media/Untitled.3b722a213aa070217ce1.glb"}}]);
