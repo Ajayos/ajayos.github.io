@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkajayos_github_io=self.webpackChunkajayos_github_io||[]).push([[839],{839:(a,e,s)=>{a.exports=s.p+"static/media/2.a796d463d504ee63ffb8.jpg"}}]);
